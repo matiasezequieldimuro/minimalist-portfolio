@@ -65,16 +65,20 @@
     "endDate": "2022-12-01"
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": "Hack2Build - Hackathon Finalist Award",
+    "date": "2023-11-28",
+    "awarder": "SAP",
+    "summary": "This award is given to individuals who successfully participated as a member of a team representing a company in Hack2Build virtual/hybrid event from SAP, where company teams compete to design, build, and present solutions addressing a business challenge or a pressing issue.",
+    "url": "https://www.credly.com/badges/6bc9d27c-3373-42cc-ba2e-9e0abdaf6124/linked_in_profile"
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": "Getting Started with SAP Cloud Application Programming Model",
+    "date": "2024-05-17",
+    "issuer": "SAP",
+    "url": "https://www.credly.com/badges/5df172fd-82c9-4af7-9631-2b7e9160ca26/linked_in_profile",
+    "topics": [
+      "Application Development", "Cloud-Native Architecture", "Software Architecture", "Web Development"
+    ]
   }],
   "publications": [],
   "skills": [
