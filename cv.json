@@ -1,93 +1,68 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Matías Ezequiel Di muro",
+    "label": "SAP BTP Backend Developer & Computer Science Student",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "matiasdimuro22@gmail.com",
+    "phone": "+54 1125322406",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Backend Developer specialized in SAP BTP (Cloud Foundry), NodeJS, Express, and Typescript, with experience in creating scalable cloud solutions and optimizing business processes.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "1408",
+      "city": "Buenos Aires",
+      "countryCode": "AR",
+      "region": "Argentina"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "matiasdimuro",
+        "url": "https://linkedin.com/in/matiasdimuro"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "matiasezequieldimuro",
+        "url": "https://github.com/matiasezequieldimuro"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "name": "Hexagon Consulting",
+      "position": "SAP BTP Developer",
+      "startDate": "2023-04-03",
+      "endDate": "2024-09-29",
+      "summary": "I trained in SAP Fiori UI5 framerowk to work as a Frontend developer. I participated in various internal web application projects, gaining more experience with each one. Months later, I started training as a Backend developer, where I worked for external clients, mainly using NodeJS, Express, Typescript, SAP HANA (relational database), SAP CAP CDS, SAP BPA (Build Process Automation), SAP Workflow Management, and XSUAA (SAP Authorization & Trust Management Service). Additionally, during this time, I learned fundamental aspects of SAP BTP management.",
       "highlights": [
         "Started the company"
-      ]
-    },
-    {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
-      ]
+      ],
+      "url": "https://hexagonconsulting.net"
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Buenos Aires (UBA)",
+      "url": "https://exactas.uba.ar/ensenanza/carreras-de-grado/ciencias-de-la-computacion/",
+      "area": "Computer Science",
+      "studyType": "Licentiate degree",
+      "startDate": "2022-07-01",
+      "endDate": null
+    }, {
+    "institution": "Dual System - AHK Argentina",
+    "url": "https://www.ahkargentina.com.ar/formaciones/sistema-dual-aleman-1-1",
+    "area": "IT Systems",
+    "studyType": "Higher Technical",
+    "startDate": "2023-03-01",
+    "endDate": "2024-12-01"
+  }, {
+    "institution": "Secondary Technical School N°35 DE N° 18 Engineer Eduardo Latzina",
+    "url": "http://www.tecnica35.com.ar",
+    "area": "Computing",
+    "studyType": "Technical (Secondary School)",
+    "startDate": "2017-03-01",
+    "endDate": "2022-12-01"
   }],
   "awards": [{
     "title": "Award",
@@ -101,89 +76,111 @@
     "issuer": "Company",
     "url": "https://certificate.com"
   }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "publications": [],
   "skills": [
     {
-      "name": "HTML",
+      "name": "SAP BTP",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Web Development", "Backend", "Frontend", "SAP", "Microservices", "Subscriptions"
       ]
     },
     {
-      "name": "CSS",
+      "name": "Node JS",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Web Development", "Backend", "Javascript"
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "Express",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web Development", "Backend", "Javascript", "Framework"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Web Development", "Frontend", "Backend", "Javascript"
       ]
     },
     {
-      "name": "Node",
+      "name": "Java",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Web Development", "Backend"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "Avanzado",
+      "keywords": [
+        "Web Development", "Backend", "Java", "JPA", "Hibernate"
       ]
     },
     {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Web Development", "Backend", "Relational Database", "SQL"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Web Development", "Backend", "Relational Database", "SQL"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": [
+        "Web Development", "Backend", "Non-Relational Database", "No SQL"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Version Control System"
       ]
     },
     {
-      "name": "GitHub",
+      "name": "Docker",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Containers", "Virtualization", "Docker Hub"
       ]
     },
     {
-      "name": "Next.js",
+      "name": "SOLID",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Best Practices"
+      ]
+    }, 
+    {
+      "name": "Clean Code",
+      "level": "Avanzado",
+      "keywords": [
+        "Best Practices"
       ]
     },
     {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web", "Frontend", "JavaScript", "Library", "UI"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript", "Framework"
       ]
     }
   ],
@@ -197,79 +194,60 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [],
+  "references": [],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "name": "Ecommerce Server",
+      "isActive": false,
+      "description": "CRUD REST API for managing products",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Backend",
+        "REST API",
+        "Typescript",
+        "NodeJS",
+        "Express",
+        "MongoDB"
       ],
-      "url": "https://mars.codes"
+      "github": "https://github.com/matiasezequieldimuro/ecommerce-server"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "name": "Licenses Service",
+      "isActive": false,
+      "description": "SAP CAP CDS Application Service about License Management",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Backend",
+        "SAP BTP",
+        "Cloud Foundry",
+        "NodeJS",
+        "SAP CAP CDS",
+        "SAP HANA"
       ],
-      "url": "https://adventjs.dev"
+      "github": "https://github.com/matiasezequieldimuro/licenses-service"
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "name": "Club de Negocios",
+      "isActive": false,
+      "description": "Landing page",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Frontend",
+        "Astro",
+        "Javascript"
       ],
-      "url": "https://codember.dev"
+      "url": "https://club-de-negocios-demo.netlify.app",
+      "github": "https://github.com/matiasezequieldimuro/club-de-negocios"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "name": "23-19",
+      "isActive": false,
+      "description": "Game Server developed with Java and UDP protocol as school project",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Java",
+        "LibGDX",
+        "UDP",
+        "Online"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "github": "https://github.com/matiasezequieldimuro/23-19-Servidor"
     }
   ]
 }
