@@ -160,6 +160,13 @@
       ]
     },
     {
+      "name": "CI-CD",
+      "level": "Medium",
+      "keywords": [
+        "DevOps"
+      ]
+    }, 
+    {
       "name": "SOLID",
       "level": "Avanzado",
       "keywords": [
@@ -201,6 +208,27 @@
   "interests": [],
   "references": [],
   "projects": [
+    {
+      "name": "Foodiecare",
+      "isActive": false,
+      "description": "Server developed with my colleagues as the final project of the Dual System program.",
+      "highlights": [
+        "Backend",
+        "REST API",
+        "Java",
+        "Spring Boot",
+        "JPA",
+        "Postgre SQL",
+        "Docker",
+        "Auth0",
+        "CI-CD",
+        "SSH",
+        "AI",
+        "Observability",
+        "Swagger"
+      ],
+      "github": "https://github.com/matiasezequieldimuro/proyecto-2024-back"
+    },
     {
       "name": "Ecommerce Server",
       "isActive": false,
