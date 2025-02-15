@@ -32,8 +32,8 @@
       "name": "Hexagon Consulting",
       "position": "SAP BTP Developer",
       "startDate": "2023-04-03",
-      "endDate": "2024-09-29",
-      "summary": "I trained in SAP Fiori UI5 framerowk to work as a Frontend developer. I participated in various internal web application projects, gaining more experience with each one. Months later, I started training as a Backend developer, where I worked for external clients, mainly using NodeJS, Express, Typescript, SAP HANA (relational database), SAP CAP CDS, SAP BPA (Build Process Automation), SAP Workflow Management, and XSUAA (SAP Authorization & Trust Management Service). Additionally, during this time, I learned fundamental aspects of SAP BTP management.",
+      "endDate": "2025-02-28",
+      "summary": "I trained in SAP Fiori UI5 framework to work as a Frontend developer. I participated in various internal web application projects, gaining more experience with each one. Months later, I started training as a Backend developer, where I worked for external clients, mainly using NodeJS, Express, Typescript, SAP HANA (relational database), SAP CAP CDS, SAP BPA (Build Process Automation), SAP Workflow Management, Cloud Connector for on premise systems, SAP Cloud Identity Services (IAS), and XSUAA (SAP Authorization & Trust Management Service). Additionally, during this time, I learned fundamental aspects of SAP BTP management.",
       "highlights": [
         "Started the company"
       ],
@@ -78,6 +78,15 @@
     "url": "https://www.credly.com/badges/5df172fd-82c9-4af7-9631-2b7e9160ca26/linked_in_profile",
     "topics": [
       "Application Development", "Cloud-Native Architecture", "Software Architecture", "Web Development"
+    ]
+  },
+  {
+    "name": "Discovering DevOps with SAP BTP",
+    "date": "2024-12-10",
+    "issuer": "SAP",
+    "url": "https://www.credly.com/badges/58751d66-3432-4d21-ac64-1ef87345c982/linked_in_profile",
+    "topics": [
+      "Continuous Integration and Delivery", "DevOps", "Technical Ops Automation"
     ]
   }],
   "publications": [],
