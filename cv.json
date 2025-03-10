@@ -30,10 +30,10 @@
   "work": [
     {
       "name": "Hexagon Consulting",
-      "position": "SAP BTP Developer",
+      "position": "SAP BTP Developer & Consultant",
       "startDate": "2023-04-03",
       "endDate": "2025-02-28",
-      "summary": "I trained in SAP Fiori UI5 framework to work as a Frontend developer. I participated in various internal web application projects, gaining more experience with each one. Months later, I started training as a Backend developer, where I worked for external clients, mainly using NodeJS, Express, Typescript, SAP HANA (relational database), SAP CAP CDS, SAP BPA (Build Process Automation), SAP Workflow Management, Cloud Connector for on premise systems, SAP Cloud Identity Services (IAS), and XSUAA (SAP Authorization & Trust Management Service). Additionally, during this time, I learned fundamental aspects of SAP BTP management.",
+      "summary": "As SAP BTP Developer and Consultant, I work on internal projects and for external clients using NodeJS, Express, and Typescript, integrating services such as SAP HANA, SAP CAP CDS, SAP BPA, Workflow Management, Cloud Connector (for on-premise systems), SAP Cloud Identity Services (IAS), and XSUAA (authentication & authorization). Additionally, I have experience in SAP BTP administration, covering user, role, and permission management; configuration of connectivity, Identity Providers, work spaces, databases, and Workzone. I have also contributed to the development of Fiori UI5 applications, further enhancing my understanding of the SAP ecosystem.",
       "highlights": [
         "Started the company"
       ],
@@ -267,33 +267,6 @@
         "SAP HANA"
       ],
       "github": "https://github.com/matiasezequieldimuro/licenses-service"
-    },
-    {
-      "name": "Club de Negocios",
-      "isActive": false,
-      "description": "Landing page.",
-      "highlights": [
-        "Frontend",
-        "Astro",
-        "Javascript",
-        "UI",
-        "UX",
-        "Netlify"
-      ],
-      "url": "https://club-de-negocios-demo.netlify.app",
-      "github": "https://github.com/matiasezequieldimuro/club-de-negocios"
-    },
-    {
-      "name": "23-19",
-      "isActive": false,
-      "description": "Game Server developed with Java and UDP protocol as school project inspired on Monsters Inc. movie.",
-      "highlights": [
-        "Java",
-        "LibGDX",
-        "UDP",
-        "Online"
-      ],
-      "github": "https://github.com/matiasezequieldimuro/23-19-Servidor"
     }
   ]
 }
