@@ -8,9 +8,9 @@
     "url": "",
     "summary": "Backend Developer specialized in SAP BTP (Cloud Foundry), NodeJS, Express, and Typescript, with experience in creating scalable cloud solutions and optimizing business processes.//I am a highly proactive, organized, and efficient professional, always striving to deliver quality results and adapt quickly to new challenges.//Driven by my passion for computing, I continuously seek to explore and stay updated on the latest trends in the IT industry.",
     "location": {
-      "address": "",
+      "address": "Moliere 2667",
       "postalCode": "1408",
-      "city": "Buenos Aires",
+      "city": "Villa Real, Buenos Aires",
       "countryCode": "AR",
       "region": "Argentina"
     },
@@ -31,7 +31,7 @@
     {
       "name": "Hexagon Consulting",
       "position": "SAP BTP Developer & Consultant",
-      "startDate": "2023-04-03",
+      "startDate": "2022-04-03",
       "endDate": "2025-02-28",
       "summary": "As SAP BTP Developer and Consultant, I work on internal projects and for external clients using NodeJS, Express, and Typescript, integrating services such as SAP HANA, SAP CAP CDS, SAP BPA, Workflow Management, Cloud Connector (for on-premise systems), SAP Cloud Identity Services (IAS), and XSUAA (authentication & authorization). Additionally, I have experience in SAP BTP administration, covering user, role, and permission management; configuration of connectivity, Identity Providers, work spaces, databases, and Workzone. I have also contributed to the development of Fiori UI5 applications, further enhancing my understanding of the SAP ecosystem.",
       "highlights": [
