@@ -33,7 +33,7 @@
       "position": "SAP BTP Developer & Consultant",
       "startDate": "2022-04-03",
       "endDate": "2025-02-28",
-      "summary": "As SAP BTP Developer and Consultant, I work on internal projects and for external clients using NodeJS, Express, and Typescript, integrating services such as SAP HANA, SAP CAP CDS, SAP BPA, Workflow Management, Cloud Connector (for on-premise systems), SAP Cloud Identity Services (IAS), and XSUAA (authentication & authorization). Additionally, I have experience in SAP BTP administration, covering user, role, and permission management; configuration of connectivity, Identity Providers, work spaces, databases, and Workzone. I have also contributed to the development of Fiori UI5 applications, further enhancing my understanding of the SAP ecosystem.",
+      "summary": "As SAP BTP Developer and Consultant, I work on internal projects and for external clients using NodeJS, Express, and Typescript, integrating services such as SAP HANA (relational database), SAP CAP CDS, SAP BPA (Build Process Automation), SAP Business AI solutions (AI Services - such as Document Information Extraction - and GenAI Hub - AI Core -), SAP Workflow Management, Cloud Connector for on premise systems, SAP Cloud Identity Services (IAS), and XSUAA (SAP Authorization & Trust Management Service). Additionally, I have experience in SAP BTP administration, covering user, role, and permission management; configuration of connectivity, Identity Providers, work spaces, databases, and Workzone. I have also contributed to the development of Fiori UI5 applications, further enhancing my understanding of the SAP ecosystem.",
       "highlights": [
         "Started the company"
       ],
@@ -152,6 +152,13 @@
       "level": "Avanzado",
       "keywords": [
         "Web Development", "Backend", "Non-Relational Database", "No SQL"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Básico",
+      "keywords": [
+        "Web Development", "Backend", "Agentic-AI Development", "LLM", "Vector embeddings"
       ]
     },
     {
