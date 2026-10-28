@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Matías Ezequiel Di muro",
-    "label": "SAP BTP Backend Developer & Computer Science Student",
+    "label": "SAP BTP Senior Developer | AI Engineer",
     "image": "/me.webp",
     "email": "matiasdimuro22@gmail.com",
     "phone": "+54 1125322406",
     "url": "",
-    "summary": "Backend Developer specialized in SAP BTP (Cloud Foundry), NodeJS, Express, and Typescript, with experience in creating scalable cloud solutions and optimizing business processes.//I am a highly proactive, organized, and efficient professional, always striving to deliver quality results and adapt quickly to new challenges.//Driven by my passion for computing, I continuously seek to explore and stay updated on the latest trends in the IT industry.",
+    "summary": "SAP BTP Developer specialized in AI, designing and building intelligent, robust solutions around AI models: from LLMs and agents to other machine learning capabilities.//Hands-on experience building agents and integrating LLMs into real-world projects with solid engineering practices, leveraging SAP AI Core and Generative AI Hub for model orchestration, Grounding Service and SAP HANA Cloud Vector Engine for retrieval anchored in enterprise data, Document Information Extraction for intelligent document processing, and Joule Studio in SAP Build for low-code agent development delivered through Joule.//Strong software engineering foundation, with design patterns, architectural best practices and clean code as everyday standards. Solid full stack experience on SAP BTP (Cloud Foundry) with Node.js, TypeScript, Express, SAP CAP (CDS), SAP HANA and Fiori / UI5, integrating with ERPs and on-premise systems through Cloud Connector, securing with XSUAA and SAP Cloud Identity Services (IAS), and automating processes with SAP Build Process Automation.",
     "location": {
       "address": "",
       "postalCode": "1408",
@@ -29,10 +29,19 @@
   },
   "work": [
     {
+      "name": "Accenture Argentina",
+      "position": "Packaged App Development Analyst",
+      "startDate": "2025-09-15",
+      "endDate": null,
+      "summary": "Full stack developer focused on AI-driven process automation, building agents and LLM-based solutions on SAP BTP. I design and develop AI agents and LLM-powered automations for enterprise processes, combining low-code with Joule Studio and custom backends in TypeScript, Node.js, LangGraph/LangChain and SAP AI Core, integrating tools and context through Model Context Protocol (MCP). I deliver full stack solutions on SAP BTP, from backend services to Fiori / UI5 interfaces, applying software engineering best practices across the entire lifecycle (clean code, architecture, monitoring, auditing and reliability) within SOX-regulated environments. I also contribute to the team's technical growth through talks, proposals and by introducing new AI technologies and practices such as agents, MCP and engineering best practices.",
+      "highlights": [],
+      "url": "https://www.accenture.com/ar-es"
+    },
+    {
       "name": "Hexagon Consulting",
       "position": "SAP BTP Developer",
-      "startDate": "2023-04-03",
-      "endDate": "2025-02-28",
+      "startDate": "2023-02-01",
+      "endDate": "2025-09-15",
       "summary": "I trained in SAP Fiori UI5 framework to work as a Frontend developer. I participated in various internal web application projects, gaining more experience with each one. Months later, I started training as a Backend developer, where I worked for external clients, mainly using NodeJS, Express, Typescript, SAP HANA (relational database), SAP CAP CDS, SAP BPA (Build Process Automation), SAP Workflow Management, Cloud Connector for on premise systems, SAP Cloud Identity Services (IAS), and XSUAA (SAP Authorization & Trust Management Service). Additionally, during this time, I learned fundamental aspects of SAP BTP management.",
       "highlights": [
         "Started the company"
@@ -65,6 +74,20 @@
     "endDate": "2022-12-01"
   }],
   "awards": [{
+    "title": "Technology Skills 2026 - SAP BTP Gen AI and Agentic AI Workshop",
+    "date": "2026-06",
+    "awarder": "SAP",
+    "summary": "This badge validates that the earner has successfully completed the SAP BTP Generative AI and Agentic AI Workshop, including all required hands-on labs. The learner demonstrated practical proficiency in SAP BTP AI services, generative AI integration, and agentic solution design, and is equipped to initiate and implement AI-driven architectures and use cases within SAP BTP projects following recommended best practices.",
+    "url": "https://www.credly.com/badges/45433b99-6952-4ca4-8fc7-4b3f1be88099/linked_in_profile"
+  },
+  {
+    "title": "Awards and Recognition 2026 - SAP Global Business AI Agent Hackathon Participant",
+    "date": "2026-05",
+    "awarder": "SAP",
+    "summary": "Awarded to individuals who were hand-selected to participate in the SAP Global Business AI Agent Hackathon 2026. This badge validates the end-to-end skills required to build production-ready AI agents on SAP BTP using Joule Studio, translating complex business challenges into high-impact AI solutions. Participants completed a rigorous 4-week program, moving from concept to a functional demo. This earner was part of an exclusive group.",
+    "url": "https://www.credly.com/badges/94ddf868-b0cf-48cf-a727-2450e74fa467/linked_in_profile"
+  },
+  {
     "title": "Hack2Build - Hackathon Finalist Award",
     "date": "2023-11-28",
     "awarder": "SAP",
@@ -72,12 +95,21 @@
     "url": "https://www.credly.com/badges/6bc9d27c-3373-42cc-ba2e-9e0abdaf6124/linked_in_profile"
   }],
   "certificates": [{
-    "name": "Getting Started with SAP Cloud Application Programming Model",
-    "date": "2024-05-17",
+    "name": "SAP Certified - SAP Generative AI Developer",
+    "date": "2026-10-20",
     "issuer": "SAP",
-    "url": "https://www.credly.com/badges/5df172fd-82c9-4af7-9631-2b7e9160ca26/linked_in_profile",
+    "url": "https://www.credly.com/badges/3815166e-309b-404e-9e97-72ac3d7430eb/linked_in_profile",
     "topics": [
-      "Application Development", "Cloud-Native Architecture", "Software Architecture", "Web Development"
+      "Generative AI", "LLMs", "SAP AI Core", "Generative AI Hub"
+    ]
+  },
+  {
+    "name": "SAP Certified - Backend Developer - SAP Cloud Application Programming Model",
+    "date": "2026-07-21",
+    "issuer": "SAP",
+    "url": "https://www.credly.com/badges/7aa4abe8-479d-4e01-a8f1-c514bd713c1d/linked_in_profile",
+    "topics": [
+      "SAP CAP", "Backend Development", "Side-by-Side Extensibility", "SAP BTP"
     ]
   },
   {
@@ -88,119 +120,114 @@
     "topics": [
       "Continuous Integration and Delivery", "DevOps", "Technical Ops Automation"
     ]
+  },
+  {
+    "name": "Getting Started with SAP Cloud Application Programming Model",
+    "date": "2024-05-17",
+    "issuer": "SAP",
+    "url": "https://www.credly.com/badges/5df172fd-82c9-4af7-9631-2b7e9160ca26/linked_in_profile",
+    "topics": [
+      "Application Development", "Cloud-Native Architecture", "Software Architecture", "Web Development"
+    ]
   }],
   "publications": [],
   "skills": [
     {
       "name": "SAP BTP",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
-        "Web Development", "Backend", "Frontend", "SAP", "Microservices", "Subscriptions"
+        "Cloud", "SAP"
+      ]
+    },
+    {
+      "name": "Cloud Foundry",
+      "level": "Advanced",
+      "keywords": [
+        "Cloud", "SAP BTP"
+      ]
+    },
+    {
+      "name": "SAP AI Core",
+      "level": "Advanced",
+      "keywords": [
+        "AI", "SAP BTP"
+      ]
+    },
+    {
+      "name": "Agentic AI",
+      "level": "Advanced",
+      "keywords": [
+        "AI", "Agents"
+      ]
+    },
+    {
+      "name": "LLMs",
+      "level": "Advanced",
+      "keywords": [
+        "AI", "Generative AI"
+      ]
+    },
+    {
+      "name": "MCPs",
+      "level": "Advanced",
+      "keywords": [
+        "AI", "Model Context Protocol"
+      ]
+    },
+    {
+      "name": "RAG",
+      "level": "Advanced",
+      "keywords": [
+        "AI", "Retrieval"
+      ]
+    },
+    {
+      "name": "LangGraph",
+      "level": "Advanced",
+      "keywords": [
+        "AI", "Agents", "Framework"
+      ]
+    },
+    {
+      "name": "SAP Joule Studio",
+      "level": "Advanced",
+      "keywords": [
+        "AI", "Agents", "Low-code"
+      ]
+    },
+    {
+      "name": "CAP",
+      "level": "Advanced",
+      "keywords": [
+        "Backend", "SAP BTP", "CDS"
+      ]
+    },
+    {
+      "name": "SAP HANA Cloud",
+      "level": "Advanced",
+      "keywords": [
+        "Database", "Vector Engine"
       ]
     },
     {
       "name": "NodeJS",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
-        "Web Development", "Backend", "Javascript"
-      ]
-    },
-    {
-      "name": "Express",
-      "level": "Master",
-      "keywords": [
-        "Web Development", "Backend", "Javascript", "Framework"
+        "Backend", "JavaScript"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
-        "Web Development", "Frontend", "Backend", "Javascript"
-      ]
-    },
-    {
-      "name": "Java",
-      "level": "Avanzado",
-      "keywords": [
-        "Web Development", "Backend"
-      ]
-    },
-    {
-      "name": "Spring Boot",
-      "level": "Avanzado",
-      "keywords": [
-        "Web Development", "Backend", "Java", "JPA", "Hibernate"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Web Development", "Backend", "Relational Database", "SQL"
-      ]
-    },
-    {
-      "name": "PostgreSQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Web Development", "Backend", "Relational Database", "SQL"
-      ]
-    },
-    {
-      "name": "MongoDB",
-      "level": "Avanzado",
-      "keywords": [
-        "Web Development", "Backend", "Non-Relational Database", "No SQL"
+        "Backend", "Frontend", "JavaScript"
       ]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
         "Version Control System"
-      ]
-    },
-    {
-      "name": "Docker",
-      "level": "Avanzado",
-      "keywords": [
-        "Containers", "Virtualization", "Docker Hub"
-      ]
-    },
-    {
-      "name": "CI-CD",
-      "level": "Medium",
-      "keywords": [
-        "DevOps"
-      ]
-    }, 
-    {
-      "name": "SOLID",
-      "level": "Avanzado",
-      "keywords": [
-        "Best Practices"
-      ]
-    }, 
-    {
-      "name": "Clean Code",
-      "level": "Avanzado",
-      "keywords": [
-        "Best Practices"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript", "Library", "UI"
-      ]
-    },
-    {
-      "name": "AstroJS",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript", "Framework"
       ]
     }
   ],
